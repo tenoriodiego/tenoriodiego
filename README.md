@@ -92,9 +92,9 @@ alt="postgresql" width="40" height="40"/> </a>
 
   <div>
     
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tjdiegoss&label=Profile%20views&color=0e75b6&style=flat" alt="tjdiegoss" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tenoriodiego&label=Profile%20views&color=0e75b6&style=flat" alt="tenoriodiego" /> </p>
     
   </div>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tjdiegoss&" alt="tjdiegoss" /></p>
-<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tjdiegoss&theme=github" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tenoriodiego&" alt="tenoriodiego" /></p>
+<p><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tenoriodiego&theme=github" /></p>
   
